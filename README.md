@@ -25,4 +25,3 @@
 - IDE：Cloud9
 
 ## 使用素材
-- 外部API：Google Cloud Platform (URL：https://developers.google.com/maps?hl=ja )
