@@ -17,6 +17,9 @@
 ## 設計書
 <...>
 
+##実装機能リスト
+https://docs.google.com/spreadsheets/d/1g_yseOFmIKd26IlIMEu5QciWzr1FqNQa6ls1CUoFi7w/edit?usp=sharing
+
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
